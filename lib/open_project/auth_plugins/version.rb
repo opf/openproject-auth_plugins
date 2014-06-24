@@ -29,6 +29,6 @@
 
 module OpenProject
   module AuthPlugins
-    VERSION = "0.1.2"
+    VERSION = "3.0.8"
   end
 end

@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.8
+
+* New version scheme
+
 ## 0.1.2
 
 * use English screenshot in README
